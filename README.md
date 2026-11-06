@@ -22,3 +22,4 @@ python3 -m http.server 8081
 ```
 
 Links are relative (`…/index.html`), so pages also open from disk.
+# pages rebuild 2026-11-06T17:48:05Z
